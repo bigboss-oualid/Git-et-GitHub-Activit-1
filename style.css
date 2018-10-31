@@ -1,0 +1,114 @@
+
+body
+
+{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+h1, h3
+
+{
+
+    text-align:center;
+
+}
+
+h3
+
+{
+
+    background-color:black;
+
+    color:#FFF !important;
+
+    font-size:0.9em;
+
+    margin-bottom:0px;
+
+}
+
+.news div
+
+{
+
+    background-color:#d8dae6;
+
+    margin-top:-0.8%;
+    padding-top:0.5%;
+    margin-bottom: 1%;
+    padding-bottom:0.5%;
+
+}
+
+.news
+
+{
+
+    width:70%;
+
+    margin:auto;
+
+}
+
+.news div p
+
+{
+    margin:0%;
+    margin-bottom:0%;
+}
+
+
+a
+
+{
+
+    text-decoration: none;
+
+    color: blue;
+
+}
+
+.signal
+
+{
+    color: red;
+}
+
+.non_signal
+
+{
+    color: green;
+}
+
+.input_large
+
+{
+    width:100% !important;
+}
+
+.coteacote
+
+{
+    display: inline-block;
+}
+
+.adroite
+
+{
+    float:right !important;
+    padding-right: 5%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.btn-secondary-descendu
+
+{
+    margin-bottom: -26% !important;
+}
+
+.btn-secondary-slightly-descendu
+{
+    margin-bottom: -26% !important;
+}
