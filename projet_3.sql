@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 -- Structure de la table `auteur`
 --
 
-CREATE TABLE `auteur` (
+CREATE TABLE `auteurs` (
   `id` int(11) NOT NULL,
   `pseudo` varchar(255) NOT NULL,
   `pass` varchar(255) NOT NULL,
@@ -68,7 +68,7 @@ CREATE TABLE `commentaires` (
 --
 -- Index pour la table `auteur`
 --
-ALTER TABLE `auteur`
+ALTER TABLE `auteurs`
   ADD PRIMARY KEY (`id`);
 
 --
